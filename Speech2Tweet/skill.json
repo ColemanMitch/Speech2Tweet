@@ -1,0 +1,36 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:829929575476:function:244830e2-e5d3-4557-93c4-115a95ea8b1f:Release_0"
+        },
+        "interfaces": [],
+        "regions": {
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:829929575476:function:244830e2-e5d3-4557-93c4-115a95ea8b1f:Release_0"
+            }
+          },
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:829929575476:function:244830e2-e5d3-4557-93c4-115a95ea8b1f:Release_0"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:829929575476:function:244830e2-e5d3-4557-93c4-115a95ea8b1f:Release_0"
+            }
+          }
+        }
+      }
+    },
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "name": "Speech 2 Tweet"
+        }
+      }
+    }
+  }
+}
