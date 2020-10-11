@@ -7,10 +7,11 @@ The invocation for the skill is "speech to tweet" (as in "Alexa, open speech to 
 <br>
 
 Invoking the skill in the Alexa Developer Console and showing the output on my Twitter account. <br>
-Note that the source of the tweet is "Speech 2 Tweet"
-
 <br>
 <img src="Speech2Tweet/Speech2Tweet_Live_Demo.gif" height="400">
+<br>
+Note that the source of the tweet is "Speech 2 Tweet"
+
 
 <br>
 
